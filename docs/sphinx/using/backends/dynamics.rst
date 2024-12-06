@@ -197,7 +197,7 @@ As an example, let's looks at the `displacement operator <https://en.wikipedia.o
         :start-after: [Begin DefineOp]
         :end-before: [End DefineOp]
 
-The defined operator is parameterized by the `displacement` amplitude. To create simulate the evolution of an 
+The defined operator is parameterized by the `displacement` amplitude. To simulate the evolution of an 
 operator under a time dependent displacement amplitude, we can define how the amplitude changes in time:
 
 .. tab:: Python
